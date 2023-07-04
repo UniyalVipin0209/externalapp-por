@@ -1,0 +1,37 @@
+.mainbox{
+          margin: auto;
+        
+          font-family: 'Lucida Sans', 'Lucida Sans Regular';       
+        padding: 10px;
+        padding-right: 3rem;
+}
+.mainbox .table-container{
+    overflow-y: auto!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ant-btn-primary{
+    background: #3059A0!important;
+    border-color:#3059A0!important;;
+}
+.col1,.col2{
+    text-align: left!important;
+    width:50%!important;
+    display: inherit!important;
+}
+
+
+.ant-form-item-label > label{
+    font-weight: 500!important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+
+}
+/**error message**/
+.ant-form-item-explain .ant-form-item-explain-connected{
+    text-align: left!important;
+}
+.ant-form-item-explain-error{
+    color: #4E24DF!important;
+    text-align: left!important;
+}

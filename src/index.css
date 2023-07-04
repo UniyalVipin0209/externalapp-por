@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Poppins', sans-serif;
+}
+
+.ant-select, .ant-select-sm, .ant-select-in-form-item, .ant-space-item,.ant-select-multiple, .ant-select-allow-clear, .ant-select-show-search{
+
+  display: inline-block;
+  width:100%;
+}
+.ant-select-selection-item, .ant-picker-input > input{
+ margin-left: .70rem;
+  text-align: left;
+}

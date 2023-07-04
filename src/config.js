@@ -1,0 +1,1 @@
+export const KPMG_ENDPOINT="http://20.96.181.1:5000/VerifyleafProof"
